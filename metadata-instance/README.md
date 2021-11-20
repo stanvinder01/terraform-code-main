@@ -1,4 +1,4 @@
-# metadata-instance
+# aws-metadata-instance
 
 ## What it does
 - Query the metadata of an ec2 instance within AWS and provide a json formatted output. 
