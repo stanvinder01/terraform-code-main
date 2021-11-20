@@ -15,6 +15,7 @@
   - `cd aws-metadata-json`
 - Install project dependancies
   - `pipenv install`
+  - `pip3 install requests`
 
 
 ## How to run
